@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item>
+    <PersonId>1</PersonId>
+    <ProductId>7</ProductId>
+    <Amount>1</Amount>
+  </Item>
+  <Item>
+    <PersonId>2</PersonId>
+    <ProductId>2</ProductId>
+    <Amount>1</Amount>
+  </Item>
+  <Item>
+    <PersonId>3</PersonId>
+    <ProductId>3</ProductId>
+    <Amount>1</Amount>
+  </Item>
+  <Item>
+    <PersonId>2</PersonId>
+    <ProductId>3</ProductId>
+    <Amount>1</Amount>
+  </Item>
+</Items>

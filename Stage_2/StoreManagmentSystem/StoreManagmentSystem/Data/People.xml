@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <PersonId>1b</PersonId>
+    <Name>Ivan Ivanov</Name>
+    <Bill>20000</Bill>
+  </Person>
+  <Person>
+    <PersonId>2b</PersonId>
+    <Name>Dragan Draganov</Name>
+    <Bill>2000</Bill>
+  </Person>
+  <Person>
+    <PersonId>3b</PersonId>
+    <Name>Ivelin Dimitrov</Name>
+    <Bill>1500</Bill>
+  </Person>
+  <Person>
+    <PersonId>1e</PersonId>
+    <Name>Ivan Ivanov</Name>
+    <Salary>600</Salary>
+    <WorkHours>20</WorkHours>
+  </Person>
+  <Person>
+    <PersonId>2e</PersonId>
+    <Name>Dragan Draganov</Name>
+    <Salary>1000</Salary>
+    <WorkHours>30</WorkHours>
+  </Person>
+  <Person>
+    <PersonId>3e</PersonId>
+    <Name>Ivelin Dimitrov</Name>
+    <Salary>1400</Salary>
+    <WorkHours>40</WorkHours>
+  </Person>
+</People>

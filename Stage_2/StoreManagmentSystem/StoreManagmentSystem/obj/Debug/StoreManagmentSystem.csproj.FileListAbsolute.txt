@@ -1,0 +1,29 @@
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\StoreManagmentSystem.exe.config
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\StoreManagmentSystem.exe
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\StoreManagmentSystem.pdb
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.csprojAssemblyReference.cache
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormStart.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.Properties.Resources.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.exe
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.pdb
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormEmployee.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormBuyer.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormEditCatalogEmployee.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormEditProductEmployee.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormMakePurchaseBuyer.resources
+C:\Users\Dess\source\repos\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormPurchaseBuyer.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\StoreManagmentSystem.exe.config
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\StoreManagmentSystem.exe
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\StoreManagmentSystem.pdb
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.csprojAssemblyReference.cache
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormBuyer.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormEditCatalogEmployee.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormEditProductEmployee.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormEmployee.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormMakePurchaseBuyer.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.FormStart.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.Properties.Resources.resources
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.exe
+C:\Users\Dess\Desktop\Курсова ООП\Етап 2\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\StoreManagmentSystem.pdb

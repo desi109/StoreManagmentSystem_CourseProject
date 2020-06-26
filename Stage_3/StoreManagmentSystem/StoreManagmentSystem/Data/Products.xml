@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ProductId>1</ProductId>
+    <Type>Phone</Type>
+    <Model>OnePluse</Model>
+    <Price>400</Price>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <Type>Phone</Type>
+    <Model>Apple</Model>
+    <Price>2000</Price>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <Type>Phone</Type>
+    <Model>Samsung</Model>
+    <Price>1500</Price>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <Type>TV</Type>
+    <Model>Samsung 32</Model>
+    <Price>200</Price>
+  </Product>
+  <Product>
+    <ProductId>5</ProductId>
+    <Type>TV</Type>
+    <Model>Samsung 64</Model>
+    <Price>700</Price>
+  </Product>
+  <Product>
+    <ProductId>6</ProductId>
+    <Type>TV</Type>
+    <Model>Samsung 64 OLED</Model>
+    <Price>1000</Price>
+  </Product>
+  <Product>
+    <ProductId>8</ProductId>
+    <Type>Car</Type>
+    <Model>Passat</Model>
+    <Price>6000</Price>
+  </Product>
+</Products>

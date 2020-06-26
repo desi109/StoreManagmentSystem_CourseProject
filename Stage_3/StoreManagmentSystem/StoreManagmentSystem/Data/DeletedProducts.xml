@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ProductId>7</ProductId>
+    <Type>Car</Type>
+    <Model>VW Golf</Model>
+    <Price>20000</Price>
+  </Product>
+</Products>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <PersonId>4e</PersonId>
+    <Name>Ivelin Dimitrov</Name>
+    <Salary>1400</Salary>
+    <WorkHours>40</WorkHours>
+  </Person>
+</People>
