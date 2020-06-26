@@ -1,0 +1,22 @@
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.exe
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.deps.json
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.runtimeconfig.json
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.runtimeconfig.dev.json
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.dll
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.pdb
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.csprojAssemblyReference.cache
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.AssemblyInfo.cs
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.dll
+C:\Users\Dess\Desktop\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.pdb
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.exe
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.deps.json
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.runtimeconfig.json
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.runtimeconfig.dev.json
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.dll
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\bin\Debug\netcoreapp3.1\StoreManagmentSystem.pdb
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.csprojAssemblyReference.cache
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.AssemblyInfo.cs
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.dll
+C:\Users\Dess\Desktop\Курсова ООП\StoreManagmentSystem\StoreManagmentSystem\obj\Debug\netcoreapp3.1\StoreManagmentSystem.pdb
